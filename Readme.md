@@ -1,1 +1,1 @@
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=geneticglitch1)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=geneticglitch1&show_icons=true)
