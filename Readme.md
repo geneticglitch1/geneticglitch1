@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geneticglitch1&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=geneticglitch1&include_all_commits=true&theme=algolia)
+
